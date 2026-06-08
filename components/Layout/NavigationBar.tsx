@@ -1,5 +1,5 @@
-const linkedInUrl = 'https://www.linkedin.com/in/girish-khedikar-6a1136264';
 const githubUrl = 'https://github.com/Girish2003-hub';
+const linkedInUrl = 'https://www.linkedin.com/in/girish-khedikar-6a1136264';
 
 const navItems = [
   { label: 'About', href: '#about' },
