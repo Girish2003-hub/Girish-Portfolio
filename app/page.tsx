@@ -41,17 +41,17 @@ const experienceHighlights = [
   'Applied foundational C# knowledge to collaborate effectively with backend teams and understand full-stack workflows.',
 ];
 
-const projects = [
-  {
-    title: 'AI Mock Interview Platform',
-    period: 'Featured Project',
-    summary:
-      'Built a project-focused interview practice experience with a clean frontend, structured interaction flow, and deployment-ready setup. This project entry is aligned with the shared live and repository links.',
-    tech: 'HTML, CSS, JavaScript, PHP',
-    live: 'https://ai-mock-interview-delta-one.vercel.app/',
-    github: 'https://github.com/Adi1816/AI-Mock-Interview',
-  },
-];
+// const projects = [
+//   {
+//     title: 'AI Mock Interview Platform',
+//     period: 'Featured Project',
+//     summary:
+//       'Built a project-focused interview practice experience with a clean frontend, structured interaction flow, and deployment-ready setup. This project entry is aligned with the shared live and repository links.',
+//     tech: 'HTML, CSS, JavaScript, PHP',
+//     live: 'https://ai-mock-interview-delta-one.vercel.app/',
+//     github: 'https://github.com/Adi1816/AI-Mock-Interview',
+//   },
+// ];
 
 const skillGroups = [
   {
