@@ -1,0 +1,20 @@
+.w-full {
+  width: 100%;
+}
+.w-50 {
+  width: 50%;
+}
+
+.h-full {
+  height: 100%;
+}
+.h-screen {
+  height: 100vh;
+}
+
+.max-w-sm {
+  max-width: 400px;
+}
+.min-h-100 {
+  min-height: 100px;
+}
