@@ -41,6 +41,7 @@ const experienceHighlights = [
   'Applied foundational C# knowledge to collaborate effectively with backend teams and understand full-stack workflows.',
 ];
 
+<<<<<<< HEAD
 const projects = [
   {
     title: 'AI Mock Interview Platform',
@@ -52,6 +53,19 @@ const projects = [
     github: 'https://github.com/Adi1816/AI-Mock-Interview',
   },
 ];
+=======
+// const projects = [
+//   {
+//     title: 'AI Mock Interview Platform',
+//     period: 'Featured Project',
+//     summary:
+//       'Built a project-focused interview practice experience with a clean frontend, structured interaction flow, and deployment-ready setup. This project entry is aligned with the shared live and repository links.',
+//     tech: 'HTML, CSS, JavaScript, PHP',
+//     live: 'https://ai-mock-interview-delta-one.vercel.app/',
+//     github: 'https://github.com/Adi1816/AI-Mock-Interview',
+//   },
+// ];
+>>>>>>> ec42c43bdb1fce42a3f4558acfebdc9024ff11f8
 
 const skillGroups = [
   {
@@ -109,8 +123,13 @@ const Home = () => {
               View Projects
             </a>
             <a
+<<<<<<< HEAD
               href="/Girish_Khedikar_Resume.pdf"
               download="Girish_Khedikar_Resume.pdf"
+=======
+              href="/Girish_Khedikar_Resume.docx"
+              download="Girish_Khedikar_Resume.docx"
+>>>>>>> ec42c43bdb1fce42a3f4558acfebdc9024ff11f8
               className="rounded-md border border-slate-300 bg-white px-5 py-3 text-sm font-semibold text-slate-800 transition hover:border-sky-300 hover:bg-sky-50"
             >
               Download Resume

@@ -41,4 +41,8 @@ export default function RootLayout({
       </body>
     </html>
   );
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> ec42c43bdb1fce42a3f4558acfebdc9024ff11f8
