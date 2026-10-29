@@ -109,8 +109,8 @@ const Home = () => {
               View Projects
             </a>
             <a
-              href="/Girish_Khedikar_Resume.docx"
-              download="Girish_Khedikar_Resume.docx"
+              href="/Girish_Khedikar_Resume.pdf"
+              download="Girish_Khedikar_Resume.pdf"
               className="rounded-md border border-slate-300 bg-white px-5 py-3 text-sm font-semibold text-slate-800 transition hover:border-sky-300 hover:bg-sky-50"
             >
               Download Resume
