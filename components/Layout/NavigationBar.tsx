@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 const githubUrl = 'https://github.com/Girish2003-hub';
 const linkedInUrl = 'https://www.linkedin.com/in/girish-khedikar-6a1136264';
-=======
-const linkedInUrl = 'https://www.linkedin.com/in/girish-khedikar-6a1136264';
-const githubUrl = 'https://github.com/Girish2003-hub';
->>>>>>> ec42c43bdb1fce42a3f4558acfebdc9024ff11f8
 
 const navItems = [
   { label: 'About', href: '#about' },
@@ -71,8 +66,4 @@ const NavigationBar = () => {
 
 NavigationBar.displayName = 'NavigationBar';
 
-<<<<<<< HEAD
 export default NavigationBar;
-=======
-export default NavigationBar;
->>>>>>> ec42c43bdb1fce42a3f4558acfebdc9024ff11f8
